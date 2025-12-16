@@ -3,12 +3,29 @@
  Students will learn the basics of game development and Virtual Reality by creating a game! This course will cover topics such as game engines, 3D space, art assets, and an introduction to coding. We will bring it all together to create a game in virtual reality. No programming experience is necessary but participants need a general familiarity with computers and using software.
  ![VRIntro](Readme_Files/CreateWithVR.jpg)
 
-# Cirriculum
+---
+# Table Of Content
+[VR Safety](#vr-safety)
+- [Creating A Safe Stationary Boundry](#creating-a-safe-stationary-boundry)
+- [Coiling Cords](#coiling-cords)
 
-## Lesson 1: Overview
-VR Safety, Intro To Unity (Position, Rotation Scale), Build A Snowman
+[Cirriculum](#Cirriculum)
+- [Lesson 1: Overview](#lesson-1--overview)
 
-### VR Safety
+  + [Intro To Unity](#intro-to-unity)
+   - [Unity Layout](#unity-layout)
+   - [Position, Rotation, Scale](#position--rotation--scale)
+   - [Build a Snowman](#build-a-snowman)
+ * [Lesson 2: Living Room 1: Build a Living Room](#lesson-2--living-room-1--build-a-living-room)
+ * [Lesson 3: Living Room 2: Import Assets Into The Living Room](#lesson-3--living-room-2--import-assets-into-the-living-room)
+ * [Lesson 5: Coding](#lesson-5--coding)
+ * [Lesson 6: Block Slicer 1: Import A Song](#lesson-6--block-slicer-1--import-a-song)
+ * [Lesson 7: Block Slicer 2: Import Assets](#lesson-7--block-slicer-2--import-assets)
+ * [Lesson 8: Block Slicer Finale: Shocase](#lesson-8--block-slicer-finale--shocase)
+---
+
+
+# VR Safety
 
 https://www.youtube.com/watch?v=Ke4MefpmRmc&ab_channel=MetaQuest
 
@@ -35,7 +52,7 @@ Have the students:
 - Put on the wrist straps and headset 'welder style' resting on their forehead
 - Walk across the room, outside their previously set up boundary
 - Set up a stationary boundary
-- Walk back to their original station, 
+- Walk back to their original station,
 - Ensure each student is at least arms reach away from
 - - Their desk
 - - Other students. This may require stagering their chair positons for safe distance
@@ -44,15 +61,22 @@ Have the students:
 Purpose: Help the students get comfortable with this process of setting up a safe boundary
 
 
-#### Coiling Cords
+## Coiling Cords
 
 A simple circle coil with enough space on either end to reach the computer and headset, velcroing the circle closed. This is covered in the first 30 seconds of this video:
 https://youtu.be/PeLrxXUbq0g?si=doWgMNpqIP_2NphR
+
+---
+# Cirriculum
+
+## Lesson 1: Overview
+VR Safety, Intro To Unity (Position, Rotation Scale), Build A Snowman
 
 
 ### Intro To Unity
 
 Have the students open the NUAC_VR_Class Project in Unity. The layout used in this class is 2 by 3.
+
 ![UnityLayout](Readme_Files/UnityLayout.png)
 
 #### Unity Layout
@@ -68,11 +92,11 @@ https://docs.unity3d.com/Manual/class-Transform.html
 #### Build a Snowman
 
 Using position, rotation, and scale, make 3 spheres on top of each other. The smallest on top, the largest on the bottom.
-
-Extra Challenges:
-- Add a Hat
-- Add a face
-- Add color: https://youtube.com/shorts/mJ2y-eNDTxY?si=_dYi70ktqydniQac
+>  [!TIP] 
+> Extra Challenges:
+> - Add a Hat
+> - Add a face
+> Add color: https://youtube.com/shorts/mJ2y-eNDTxY?si=_dYi70ktqydniQac
 
 ## Lesson 2: Living Room 1: Build a Living Room
 Using Unity's Create With VR project, we are going to design a living room.
