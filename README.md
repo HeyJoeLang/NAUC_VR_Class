@@ -152,9 +152,9 @@ https://youtu.be/2R2fBelebuY
 
 >  [!TIP] Particle Settings To Make A Fire
 > - General
->  - Color: Orange
->  - Start Speed: 1
->  - Start Lifetime: 2
+>   - Color: Orange
+>   - Start Speed: 1
+>   - Start Lifetime: 2
 > - Shape
 >   - Angle: 0
 >   - Radius: 0.5
@@ -229,10 +229,13 @@ https://learn.unity.com/course/create-with-vr/unit/vr-basics/tutorial/vr-locomot
 
 ## Lesson 6: Grabbable Objects
 Students will learn how to Grab and throw objects in their rooms
+
+
 https://learn.unity.com/course/create-with-vr/unit/vr-basics/tutorial/1-3-grabbable-gameobjects?version=2021.3
 
 >  [!TIP]
 > **Stacking Blocks:** Have a table with various sized blocks, make it challenging to stack them
+> 
 > **Jordan!:** Place a basket on one end of the room and have a pille of balls the user can grab, try to throw the balls into the basket
 
 ---
